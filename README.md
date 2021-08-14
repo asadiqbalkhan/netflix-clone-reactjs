@@ -6,3 +6,4 @@ TODO
 2) Login functionality
 3) Payment plan screen
 4) Check out process -> membership payment with Stripe
+5) Animations 
